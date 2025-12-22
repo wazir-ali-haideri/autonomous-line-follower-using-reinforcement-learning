@@ -1,4 +1,5 @@
 🏎️ Autonomous Line Follower using Deep Reinforcement Learning
+
 A custom simulation environment where an AI agent learns to navigate complex, randomly generated "Zig-Zag" tracks using Deep Reinforcement Learning. Unlike traditional PID controllers, this agent learns continuous control for both steering and velocity from scratch.
 
 🚀 Key Features
@@ -34,3 +35,6 @@ Positive: For high speed while centered on the line.
 Negative: For drifting off-center or moving too slow.
 
 Termination: Episode ends if the robot strays too far from the track
+
+<img width="1240" height="571" alt="image" src="https://github.com/user-attachments/assets/010f5ef6-1911-496f-b1c7-316c9acd68d7" />
+
