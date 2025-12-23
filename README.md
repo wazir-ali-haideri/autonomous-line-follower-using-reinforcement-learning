@@ -2,6 +2,8 @@
 
 A custom simulation environment where an AI agent learns to navigate complex, randomly generated "Zig-Zag" tracks using Deep Reinforcement Learning. Unlike traditional PID controllers, this agent learns continuous control for both steering and velocity from scratch.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1bb02c0f-1eaf-4e8f-a990-c6398cb4cf3c" />
+
 🚀 Key Features
 
 Self-Learning AI: The robot learns to slow down for sharp corners and accelerate on straights without hard-coded rules.
